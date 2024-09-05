@@ -1,9 +1,9 @@
 {
-    "name": "hotspotbilling/phpnuxbill",
+    "name": "bluecozza/phpnuxbill",
     "type": "template",
-    "description": "PHPNuxBill a Hotspot Billing Software.",
+    "description": "PHPNuxBill a Hotspot Billing Software. Forked from https://github.com/hotspotbilling/phpnuxbill",
     "keywords": ["template","PHPMixBill","PHPnuxBill","Mikrotik","Hotspot","Billing"],
-    "homepage": "https://github.com/hotspotbilling/phpnuxbill",
+    "homepage": "https://github.com/bluecozza/phpnuxbill",
     "license": "MIT",
     "authors": [
         {
